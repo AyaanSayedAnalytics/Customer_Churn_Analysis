@@ -1,0 +1,30 @@
+## Requirements
+
+### Software
+
+* SQL Server (for data source)
+* Python 3.9+
+* Power BI Desktop (to open the `.pbix` file)
+
+---
+
+### Python Libraries
+
+Install with:
+
+pip install pandas matplotlib seaborn pyodbc
+
+Used libraries:
+
+* pandas
+* matplotlib
+* seaborn
+* pyodbc
+
+---
+
+### Power BI
+
+* Open the provided `.pbix` file in Power BI Desktop
+* If prompted, update the SQL Server connection to your local instance (`localhost`)
+
