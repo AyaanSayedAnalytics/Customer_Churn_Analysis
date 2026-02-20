@@ -54,12 +54,7 @@ Workflow:
 
 ## Dashboard Preview
 
-### 1) Customer Churn Overview
-![Customer Churn Overview](Power%20BI/overview.png)
+### 1) Customer Churn Overview ![Customer Churn Overview](Power%20BI/Customer_Churn_Overview.png)
 
-### 2) Churn Drivers
-![Churn Drivers](Power%20BI/churn_drivers.png)
-
-### 3) Segmentation
-![Segmentation](Power%20BI/segmentation.png)
+### 2) Churn Drivers ![Churn Drivers](Power%20BI/Churn_Drivers.png)
 
